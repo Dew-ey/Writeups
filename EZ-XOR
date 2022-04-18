@@ -1,0 +1,25 @@
+Ez-xor
+	Begin with downloading the file from the competition page, run file to determine type.
+
+From here I go to cyberchef and spend some time passing it through the magic function with Intensive mode activated. Testing until I reach an entropy of 5 I am able to find the flag
+
+
+
+Corrupted
+	(Upon completion this challenge was only worth 100 pts, but points are points.)
+I begin with downloading the package from the link. After it is downloaded I do a file command just to see exactly what i'm working with.
+
+
+
+Seeing that it is just inputting data I decide to do a binwalk on it to see if it contains any hidden directories. 
+
+Upon completing a binwalk I am able to see that this is most likely a zlib directory with several PNG’s stored within it.
+
+So I decide that the best course of action is to change it to a zlib file:
+
+Now after searching to find the file extension to name it I came across this website https://filext.com/file-extension/ZLIB which is an online source for opening zlib files 
+
+The website lets me extract all strings to a simple .txt file, looking through it with a grep I find nothing, so I go back to manually looking through the library. 
+
+Passing through the screenshots folder the file Capture(1).png contains a photo of L from the anime Death Note with the flag right below 
+
