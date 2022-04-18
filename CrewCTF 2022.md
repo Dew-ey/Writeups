@@ -1,4 +1,4 @@
-Alt-CrewCTF 2022
+CrewCTF 2022
 ======
   Team Name: WCSC 5URPR15E
   ##Writeups Link
