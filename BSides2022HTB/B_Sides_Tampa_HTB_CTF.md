@@ -39,7 +39,7 @@ B SIDES TAMPA HACK THE BOX CTF 2022
   So, feeding the first section into visual studio code we get this output: 
   ![alt text](https://github.com/Dew-ey/Writeups/blob/main/BSides2022HTB/Instructions/i10.PNG "img8")
   
-  Finally putting the two together we get the flag: `HTB{n3w_VPN__n3w_b4ckd00r}`
+  Finally putting the two together we get the flag: `HTB{n3w_VPN_n3w_b4ckd00r}`
   
   
   
