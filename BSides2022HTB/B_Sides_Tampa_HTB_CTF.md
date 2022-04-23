@@ -2,6 +2,9 @@ B SIDES TAMPA HACK THE BOX CTF 2022
 ======
   Team Name: WCSC 5URPR15E
   
+  Instructions
+  ------
+  
   This was the only forensics challange during the competition, At the time of completion the challange was worth roughly 500 points. The prompt is that this is a file
   is responsible for setting up the new vpn for the buisness. So lets download it and see what we get.
   
